@@ -1,0 +1,78 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40em;
+    width: 25em;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1em;
+    border: 2px solid hsl(0, 0%, 7%);
+    box-shadow: 0.6em 0.3em 1px rgb(0, 0, 0);
+}
+
+.imagem img {
+    display: flex;
+    padding-top: 2em;
+    border-radius: 15px;
+}
+
+.informacoes {
+    padding-top: 2em;
+}
+
+.botao {
+    margin-left: 2em;
+    font-weight: 700;
+    font-size: 16px;
+    width: 6em;
+    height: 2em;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.informacoes p {
+    margin-left: 2em;
+    padding-top: 2em;
+    font-size: 16px;
+}
+
+.informacoes h1 {
+    padding-top: 1em;
+    margin-left: 1em;
+    font-size: 27px;
+}
+
+.informacoes .texto-cinza {
+    color:  hsl(0, 0%, 42%);
+}
+
+ .rodape {
+    display: flex;
+    flex-direction: row;
+    padding-top: 3em;
+    margin-left: -11em; 
+ }
+
+ .rodape img {
+    width: 50px;
+ }
+
+ .rodape h2 {
+    font-size: 16px;
+    color:  hsl(0, 0%, 7%);
+    padding-top: 1em;
+    margin-left: 1em;
+} 
+
+.informacoes h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
