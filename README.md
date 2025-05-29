@@ -26,5 +26,5 @@ Se você desejar melhorar este projeto, fique á vontade para enviar sugestões,
 
 ---
 
-## OBRIGADA PRO VISITAR O PROJETO CARTÃO BLOG!💖
+## OBRIGADA POR  VISITAR O PROJETO CARTÃO BLOG!💖
 Espero que este projeto tenha lhe ajudado de alguma forma, porque ele me ajudou! 🚀😊
