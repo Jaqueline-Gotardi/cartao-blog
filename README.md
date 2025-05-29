@@ -10,5 +10,4 @@ Este projeto foi feito para praticar e demonstrar conhecimentos de HTML e CSS, m
 
 ## TECNOLOGIAS UTILIZADAS 💻
 **HTML**: Que é necessário para toda página web;
-
 **CSS**: Para um layout agradável, com sombras e transição visual;
