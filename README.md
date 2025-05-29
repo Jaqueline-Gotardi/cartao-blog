@@ -8,7 +8,7 @@ O **Cartão Blog** é uma página web que representa um post de Blog. O cartão 
 
 Este projeto foi feito para praticar e demonstrar conhecimentos de HTML e CSS, mas, especialmente com foco em fazer um layout flexível (flexbox), sendo responsivo, com uma estilização agradável e fácil de se adaptar.
 
-**Quer ver como ficou? Acesse o link:**(https://jaqueline-gotardi.github.io/cartao-blog/)
+**Quer ver como ficou? Acesse o link:** (https://jaqueline-gotardi.github.io/cartao-blog/)
 
 ---
 
